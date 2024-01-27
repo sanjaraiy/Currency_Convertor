@@ -1,8 +1,18 @@
-# React + Vite
+# Currency Convertor
+---
+This project is mainly built on `JavaScript`, `TailwindCSS` and `React.js`. It is responsive for different devices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--- 
+## Used API Currency :-
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/
+```
+--- 
+## Features :-
+- Muplitple choice to convert currency into other country currency
+- Added Error Handling feature.
+- Added swap button to swapping the currency value with each other.
+---
+## Contact Us :-
+- email - [deeprai786756@gamil.com](deeprai786756@gamil.com)
+- LinkedIn - [Follow Us](https://www.linkedin.com/in/sanjay-rai-1491b4228/)
